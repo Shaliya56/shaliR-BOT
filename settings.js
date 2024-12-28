@@ -71,7 +71,7 @@ global.anticall = process.env.ANTI_CALL || 'false'
 global.welcome = process.env.WELCOME_MSG || 'false'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🙀'
+global.statusemoji = process.env.STATUS_EMOJI || '🤡'
 //Set the emoji that you want to be reacted to status
 
 //=================================================//
